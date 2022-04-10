@@ -1,0 +1,31 @@
+{
+    "Student": [
+        {
+            "gender": "2323",
+            "id": "01",
+            "name": "male"
+        }
+    ],
+    "address": null,
+    "color": [
+        "blue"
+    ],
+    "gege": {
+        "serialOne": {
+            "grade": 10,
+            "language": "姹夎"
+        },
+        "serialTwo": {
+            "grade": 6,
+            "language": "鑻辫"
+        }
+    },
+    "id": "11111111",
+    "meimei": {
+        "Time": "Time:周三 3月 2 22:45:00 2022",
+        "age": 22,
+        "badminton": "涔掍箵鐞",
+        "name": "liyifeng"
+    },
+    "vip": false
+}
